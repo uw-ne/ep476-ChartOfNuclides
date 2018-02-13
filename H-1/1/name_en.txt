@@ -1,2 +1,2 @@
-hydrogen 1
+hydrogen
 
