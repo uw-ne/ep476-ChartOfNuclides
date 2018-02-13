@@ -1,4 +1,5 @@
 #list of included elements
 
-* Gold (Z=79)
+*Element  Gold (Z=79)
+
 
